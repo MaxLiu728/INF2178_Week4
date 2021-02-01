@@ -1,0 +1,11 @@
+---
+title: "Week3_Note"
+author: "Renjing Liu"
+date: "2021/2/1"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
